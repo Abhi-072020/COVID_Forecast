@@ -1,1 +1,1 @@
-# COVID_Forecast
+# Deep Learning for COVID-19 Diagnosis
