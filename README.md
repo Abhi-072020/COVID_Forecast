@@ -1,1 +1,1 @@
-# Deep Learning for COVID-19 Diagnosis
+# Using different ml algos for detecting covid presence
